@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.bitwig:extension-api:7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bitwig/extension-api/7/extension-api-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bitwig/extension-api/7/extension-api-7-javadoc.jar!/" />
+    </JAVADOC>
+    <LIBRARY_FILE />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bitwig/extension-api/7/extension-api-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

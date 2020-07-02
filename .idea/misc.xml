@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HaskellBuildOptions">
+    <ghcPath>D:\Program Files\Haskell Platform\8.6.5\bin\ghc.exe</ghcPath>
+    <cabalPath>D:\Program Files\Haskell Platform\8.6.5\lib\extralibs\bin\cabal.exe</cabalPath>
+    <stackPath>C:\Users\Sam\AppData\Roaming\local\bin\stack.exe</stackPath>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="14" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
